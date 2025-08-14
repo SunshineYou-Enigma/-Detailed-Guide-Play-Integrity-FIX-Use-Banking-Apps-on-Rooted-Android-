@@ -12,7 +12,8 @@ Works with: Android 11/12/13/14/15
 
 > [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) : Updates target list for better spoofing
 
-> [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) / [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) : Helps pass Play Integrity [basic, device, strong]
+> [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) / [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) / [PlayIntegrityFix Alternative](https://github.com/KOWX712/PlayIntegrityFix)
+Helps pass Play Integrity [basic, device, strong]
 
 > [KSU Web UI](https://github.com/5ec1cff/KsuWebUIStandalone)  : Browser-based interface for managing [Magisk](https://github.com/topjohnwu/Magisk)/KernelSU modules.
 
