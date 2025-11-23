@@ -71,8 +71,8 @@ If it fails 💢 Do it manually
 Click Advanced;
 
 System  > prop
-Boot    > 2025-06-05
-Vendor  > 2025-06-05
+Boot    > 2025-10-05
+Vendor  > 2025-10-05
 
 Click save! [ Window will be closed ] and save in the end before closing the app.
 
@@ -164,14 +164,16 @@ _ _ _
 Now you can pass all integrity checks, Use all banking apps, Use Magisk modules freely without detection.
 _ _ _
 
-🌿 🌿 Tested on A15 [ Updated Guide [ Sunday, June_07_2025_13:30:07UTC+05 ]
+🌿 🌿 Tested on A15 [ Updated Guide [ Tuesday, Nov_11_2025_13:30:07UTC+05 ]
 
 🌿 Device certification will expire after few months [Inevitable] just redo the whole process to regain.
 ____
 Updates~[@Sunshineyou_enigma](https://t.me/Sunshineyou_enigma) 🌿
 
+___________________
+
 [GitHub - Telegram]
 
-Join [@Customromsupportofficial](https://t.me/Customromsupportofficial) 🌿
+For Support [@Customromsupportofficial](https://t.me/Customromsupportofficial) 🌿
 
 Follow [@customromsupportHUB](https://t.me/customromsupportHUB) 🌿
